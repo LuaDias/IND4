@@ -1,2 +1,9 @@
-# IND4
-Este é meu primeiro trabalho com banco de dados
+
+Existem outras entidades além dessas três ?
+Sim!
+
+Quais são os primcipais campos e tipos  ?
+Cod_aluno, Cod_Turma, Cod_Curso e Cod_Prof (PK, PK, PK, PK)
+
+Como essas entidades estão relacionadas ?
+Cardinalidade (1:N, N:1 ou N:0)
