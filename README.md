@@ -23,3 +23,4 @@ Modelo Conceitual
 
 Modelo Lógico
 <br>
+![Modelo_logico](https://user-images.githubusercontent.com/114240411/216174441-cb500c36-62f8-47c2-90e0-2dc336ad4039.png)
